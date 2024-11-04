@@ -1,4 +1,4 @@
 # Braindump
 
-Document your notes using the command line, your favorite text editor and a git reposiory.
+Document your notes using the command line, your favorite text editor and a git repository.
 
